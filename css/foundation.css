@@ -72,10 +72,10 @@ table, tr, td {
 @media only screen {
   html {
     min-height: 100%;
-    background: #f3f3f3; } }
+    background: #f0f0f0; } }
 
 table.body {
-  background: #f3f3f3;
+  background: #f0f0f0;
   height: 100%;
   width: 100%; }
 
